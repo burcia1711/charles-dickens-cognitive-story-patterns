@@ -1,6 +1,6 @@
 ## Mental Models and Narrative Structures in Charles Dickens' Novels
 
-This repository aims to identify and analyse recurring cognitive patterns in the narrative structures and character arcs of Charles Dickens’ novels, using frameworks from cognitive science, such as the theory of mind, mental schemas, narrative comprehension, and identity construction.
+This repository is created for my personal interest in Victorian Literature (here, Charles Dickens particularly). It aims to identify and analyse recurring cognitive patterns in the narrative structures and character arcs of Charles Dickens’ novels, using frameworks from cognitive science, such as the theory of mind, mental schemas, narrative comprehension, and identity construction.
 
 ### 🧠 Coding Goals
 #### - Detect Cognitive Verbs / Mental State Terms

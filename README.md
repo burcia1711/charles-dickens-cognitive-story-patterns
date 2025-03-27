@@ -9,7 +9,7 @@ Automate detection of Theory of Mind (ToM) instances in Dickens' texts.
 #### - Analyze Narrative Perspective Shifts
 Track which characters are being "mentalised" and when.
 
-### 🧰 Libraries & Tools You’ll Use
+### 🧰 Libraries & Tools To Use
 spaCy (NLP pipeline for sentence and token analysis)
 
 NLTK or TextBlob (for sentiment or lexical stats)
